@@ -1,5 +1,5 @@
 ##Logan Lauton
-##global.R - NBA Player HUD App v1
+##global.R - NBA Player HUD App v1.0
 ##this is the global.R for the first iteration of the NBA Player HUD R Shiny app that I will
 ##be producing. In this holds my initial exploratory graphs and features that I would like to implement.
 
