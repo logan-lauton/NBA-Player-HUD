@@ -1,5 +1,5 @@
 ##Logan Lauton
-##app.R - NBA Player HUD App v1
+##app.R - NBA Player HUD App v1.0
 ##this is the app.R for the first iteration of my NBA Player HUD R Shiny app that I will
 ##be producing. This file holds the main foundation of the apps appearance and brain.
 
