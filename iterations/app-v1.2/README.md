@@ -1,1 +1,3 @@
+# app v1.2
 
+In this next update, I added the box score tab which allows users to view every single box score in NBA history, ranging in date from Oct. 31, 1947 to Apr. 4, 2023. This data set proved to be incredibly massive, and I recommend that it be ran exclusively on a site such as [Posit Cloud](https://posit.cloud/learn/guide) as running it locally may cause damage to parts due to the shear amount of data. In the next iteration I hope to further filter the box scores by team, and i hope to properly filter by the date, as it is currently not filtering properly. See the next iteration at the [app v1.3](https://github.com/logan-lauton/NBA-Player-HUD/tree/main/iterations/app-v1.3) folder.
